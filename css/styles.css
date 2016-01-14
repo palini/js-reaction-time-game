@@ -1,0 +1,21 @@
+body {
+	font-family:  Verdana, Geneva, sans-serif ;
+}
+#box {
+	width : 100px;
+	height : 100px;
+	background-color : black;
+	display : none;
+	position: relative;
+	}
+#circle {
+	border-radius : 50%;
+	width : 150px;
+	height : 150px;
+	background-color : black;
+	display : none;
+	position: relative;
+}
+.bold {
+	font-weight : bold;
+}
